@@ -6,6 +6,7 @@
 }
 
 html {
+    scroll-behavior: smooth;
     height: 100vh;
     font-size: 62.5%;
     line-height: 1.6rem;
@@ -449,7 +450,7 @@ small {
 
 /* LEGENDS */
 
-.legends {
+#legends {
     color: #fff;
     background-color: #3F3F3F;
     margin: 0;
